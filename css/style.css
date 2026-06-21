@@ -1,0 +1,9 @@
+body 
+{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0;
+  z-index: 1000;
+  margin: 0;
+}
